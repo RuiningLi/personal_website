@@ -28,8 +28,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
   # - Information Retrieval
 
 # Education to show in About widget
-education:
-  courses:
+# education:
+#   courses:
     # - course: BA in Computer Science
     #   institution: University of Oxford
     #   year: Expected 2023
