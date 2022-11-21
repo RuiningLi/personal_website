@@ -78,7 +78,7 @@ email: 'ruining.li AT sjc.ox.ac.uk'
 highlight_name: true
 ---
 
-I am a third-year undergraduate student at University of Oxford. I am lucky to have my third-year project supervised by [Shangzhe Wu](https://elliottwu.com/) and [Christian Rupprecht](https://chrirupp.github.io/), where we are developing models that reconstruct deformable objects from in-the-wild images.
+I am a final-year undergraduate student at University of Oxford. I am lucky to have my third-year project supervised by [Shangzhe Wu](https://elliottwu.com/) and [Christian Rupprecht](https://chrirupp.github.io/), where we are developing models that reconstruct deformable objects from in-the-wild images.
 
 Previously, I interned at [Pony.ai](https://www.pony.ai/) as a software engineer and [Goldman Sachs](https://www.goldmansachs.com/) as a quantitative strategist.
 
