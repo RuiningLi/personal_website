@@ -10,7 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student in Computer Science
+role: Undergraduate student in <br />Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,14 +71,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ruining.li \'at\' sjc.ox.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year undergraduate student at University of Oxford. I am lucky to have my third-year project supervised by [Shangzhe Wu](https://elliottwu.com/) and [Christian Rupprecht](https://chrirupp.github.io/), where we are developing models that reconstruct deformable objects from in-the-wild images.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I interned at [Pony.ai](https://www.pony.ai/) as a software engineer and [Goldman Sachs](https://www.goldmansachs.com/) as a quantitative strategist.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
