@@ -30,9 +30,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Education to show in About widget
 education:
   courses:
-    - course: BA in Computer Science
-      institution: University of Oxford
-      year: Expected 2023
+    # - course: BA in Computer Science
+    #   institution: University of Oxford
+    #   year: Expected 2023
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
