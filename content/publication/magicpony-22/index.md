@@ -1,17 +1,22 @@
 ---
 title: "MagicPony: Learning Articulated 3D Animals in the Wild"
 authors:
-- Shangzhe Wu
-- admin
-- Tomas Jakab
-- Christian Rupprecht
-- Andrea Vedaldi
+- [Shangzhe Wu](https://elliottwu.com/)
+- ruining-li
+- [Tomas Jakab](https://www.robots.ox.ac.uk/~tomj/)
+- [Christian Rupprecht](https://chrirupp.github.io/)
+- [Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/)
 
-date: "2019-04-07T00:00:00Z"
+author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
+- 'Equal contribution'
+
+date: "2022-11-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,19 +35,19 @@ publication_short: "arXiv preprint 2022"
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2211.12497
 url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+# url_dataset: '#'
+# url_poster: '#'
 url_project: https://3dmagicpony.github.io/
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
