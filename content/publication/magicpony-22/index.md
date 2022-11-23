@@ -1,11 +1,11 @@
 ---
 title: "MagicPony: Learning Articulated 3D Animals in the Wild"
 authors:
-- [Shangzhe Wu](https://elliottwu.com/)
+- Shangzhe Wu
 - ruining-li
-- [Tomas Jakab](https://www.robots.ox.ac.uk/~tomj/)
-- [Christian Rupprecht](https://chrirupp.github.io/)
-- [Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/)
+- Tomas Jakab
+- Christian Rupprecht
+- Andrea Vedaldi
 
 author_notes:
 - 'Equal contribution'
