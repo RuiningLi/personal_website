@@ -75,5 +75,4 @@ featured:
 # slides: example
 ---
 
-{{< figure src="magicpony-featured-light.gif" caption="MagicPony: Our method trains on a collection of single-view images of an animal category
-and produces a model that can predict an articulated 3D shape of the instance from a single input image." numbered="false" >}}
+{{< figure src="magicpony-featured-light.gif" caption="MagicPony: Our method trains on a collection of single-view images of an animal category and produces a model that can predict an articulated 3D shape of the instance from a single input image." numbered="false" >}}
