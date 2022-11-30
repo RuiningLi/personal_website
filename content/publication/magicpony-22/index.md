@@ -75,6 +75,5 @@ featured:
 # slides: example
 ---
 
-{{< figure src="magicpony-featured.gif" caption="MagicPony Teaser" numbered="false" >}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+{{< figure src="magicpony-featured-light.gif" caption="MagicPony: Our method trains on a collection of single-view images of an animal category
+and produces a model that can predict an articulated 3D shape of the instance from a single input image." numbered="false" >}}
